@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🏙 Master of City Planning Candidate @ UPenn | Community Economic Develpoment & Geospatial Analysis
+- 🏙 Master of City Planning Candidate @ UPenn | Community Economic Develpoment & Geospatial Analytics
 - 💬 Ask me about geospatial analytics, city planning, small businesses, placemaking, and maps  
 - 📩 How to reach me: banez@design.upenn.edu
 - 👤 Pronouns: He/him/his
